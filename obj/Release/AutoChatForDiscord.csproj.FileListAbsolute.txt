@@ -1,0 +1,10 @@
+D:\Dev\AutoChatForDiscord\bin\Release\AutoChatForDiscord.exe.config
+D:\Dev\AutoChatForDiscord\bin\Release\AutoChatForDiscord.exe
+D:\Dev\AutoChatForDiscord\bin\Release\AutoChatForDiscord.pdb
+D:\Dev\AutoChatForDiscord\obj\Release\AutoChatForDiscord.MainForm.resources
+D:\Dev\AutoChatForDiscord\obj\Release\AutoChatForDiscord.Properties.Resources.resources
+D:\Dev\AutoChatForDiscord\obj\Release\AutoChatForDiscord.csproj.GenerateResource.cache
+D:\Dev\AutoChatForDiscord\obj\Release\AutoChatForDiscord.exe
+D:\Dev\AutoChatForDiscord\obj\Release\AutoChatForDiscord.pdb
+D:\Dev\AutoChatForDiscord\obj\Release\AutoChatForDiscord.csprojAssemblyReference.cache
+D:\Dev\AutoChatForDiscord\obj\Release\ACFD.Properties.Resources.resources
